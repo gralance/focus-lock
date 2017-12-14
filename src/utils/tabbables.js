@@ -3,6 +3,7 @@ export default [
   'select:enabled',
   'textarea:enabled',
   'input:enabled',
+  '.el-select-dropdown__item',
 
   'a[href]',
   'area[href]',
